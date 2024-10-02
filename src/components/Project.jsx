@@ -3,7 +3,6 @@ import yashhealthimg from "../assets/yashhealthimg.png"
 import yashskills from "../assets/yashskills.png"
 import wittyimg from "../assets/wittyhack.png"
 import wittyskills from "../assets/wittyskills.png"
-import jsskills from "../assets/jsskills.png"
 import krishiimg from "../assets/krishimitra.png"
 
 const Project = () => {
